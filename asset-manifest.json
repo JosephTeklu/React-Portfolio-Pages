@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Pages/static/css/main.fc497156.css",
+    "main.js": "/React-Portfolio-Pages/static/js/main.6e2adcf8.js",
+    "static/media/Jojo_Pics-10.jpg": "/React-Portfolio-Pages/static/media/Jojo_Pics-10.e74ab5796407e035b2dc.jpg",
+    "static/media/cover-image.jpg": "/React-Portfolio-Pages/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/run-buddy.jpg": "/React-Portfolio-Pages/static/media/run-buddy.b57f2b88349c6b77211d.jpg",
+    "static/media/led-wall.jpg": "/React-Portfolio-Pages/static/media/led-wall.c905c2d12b5c9b7485ff.jpg",
+    "static/media/0.jpg": "/React-Portfolio-Pages/static/media/0.aae354cffe126735c6a7.jpg",
+    "static/media/calculator.jpg": "/React-Portfolio-Pages/static/media/calculator.bb6f4d8d88b3569cb0e0.jpg",
+    "static/media/2.jpg": "/React-Portfolio-Pages/static/media/2.73361bef8e26b971e197.jpg",
+    "static/media/1.jpg": "/React-Portfolio-Pages/static/media/1.863e6935e38396aecb5d.jpg",
+    "static/media/3.jpg": "/React-Portfolio-Pages/static/media/3.dd376ef9a77aa73dbb1b.jpg",
+    "static/media/RecipeHQ.jpg": "/React-Portfolio-Pages/static/media/RecipeHQ.2e727706c4d40397b45b.jpg",
+    "static/media/4.jpg": "/React-Portfolio-Pages/static/media/4.3b0c40e1612f92a7c758.jpg",
+    "static/media/surf-report.jpg": "/React-Portfolio-Pages/static/media/surf-report.6490cdfef5afd0538437.jpg",
+    "static/media/Valet Employee Service.jpg": "/React-Portfolio-Pages/static/media/Valet Employee Service.fd12d582dc4d2b6dbe9a.jpg",
+    "static/media/pastel-puzzels.jpg": "/React-Portfolio-Pages/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
+    "static/media/url-shortner.jpg": "/React-Portfolio-Pages/static/media/url-shortner.997d6b92f2892e0f19f0.jpg",
+    "static/media/Password-Generator.jpg": "/React-Portfolio-Pages/static/media/Password-Generator.7b0689ec1d4496c66ddb.jpg",
+    "static/media/README.jpg": "/React-Portfolio-Pages/static/media/README.4f6e8dfc2b16f0859860.jpg",
+    "index.html": "/React-Portfolio-Pages/index.html",
+    "main.fc497156.css.map": "/React-Portfolio-Pages/static/css/main.fc497156.css.map",
+    "main.6e2adcf8.js.map": "/React-Portfolio-Pages/static/js/main.6e2adcf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc497156.css",
+    "static/js/main.6e2adcf8.js"
+  ]
+}
